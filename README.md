@@ -34,14 +34,13 @@ The Airflow pipelines automate the following tasks:
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/MHamzaGhani/Prophet-Model-Pipeline-API.git
   
+2. Start the FastAPI application:
 
-3. Start the FastAPI application:
+3. Access the FastAPI documentation at `http://localhost:8000/docs` to interact with the API endpoints.
 
-4. Access the FastAPI documentation at `http://localhost:8000/docs` to interact with the API endpoints.
-
-5. Set up Airflow and create a DAG using the provided Airflow code. The DAG automates the data upload and prediction tasks.
+4. Set up Airflow and create a DAG using the provided Airflow code. The DAG automates the data upload and prediction tasks.
 
 ## Credits
 
